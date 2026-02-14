@@ -1,5 +1,32 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Building scalable Django-based web applications  <br>- Designing clean backend architectures  <br>- Developing startup-oriented products  <br><br>👯 I’m looking to collaborate on<br>- Open-source Django / Python projects  <br>- SaaS or startup ideas  <br>- Backend-heavy full-stack applications  <br><br>🤝 I’m looking for help with<br>- System design at scale  <br>- DevOps & CI/CD optimization  <br>- High-performance architecture patterns  <br><br>🌱 I’m currently learning<br>- Advanced system design  <br>- Distributed systems fundamentals  <br>- Modern frontend frameworks  <br><br>💬 Ask me about<br>- Python & Django  <br>- REST API design  <br>- Backend architecture decisions  <br>- Turning ideas into MVPs  <br><br>⚡ Fun fact<br>- I enjoy building real-world products more than tutorial projects 🚀
+🔭 I’m currently working on<br>
+- Building scalable Django web applications  <br>
+- Designing clean and maintainable backend architectures  <br>
+- Developing product-oriented web systems  <br><br>
+
+👯 I’m looking to collaborate on<br>
+- Python / Django open-source projects  <br>
+- SaaS and startup ideas  <br>
+- Backend-focused full-stack applications  <br><br>
+
+🤝 I’m looking for help with<br>
+- Backend scalability strategies  <br>
+- Production deployment best practices  <br>
+- Advanced system design concepts  <br><br>
+
+🌱 I’m currently learning<br>
+- System design fundamentals  <br>
+- Backend performance optimization  <br>
+- Modern frontend frameworks  <br><br>
+
+💬 Ask me about<br>
+- Python & Django  <br>
+- REST API architecture  <br>
+- Database modeling  <br>
+- Building MVPs efficiently  <br><br>
+
+⚡ Fun fact<br>
+- I think like a product builder, not just a developer 🚀
 
 
 ## 🌐 Socials:
