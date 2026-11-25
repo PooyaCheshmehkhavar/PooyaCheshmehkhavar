@@ -1,14 +1,14 @@
 <div align="center">
 
 # Hi there, I'm Pooya Cheshmehkhavar 👋
-### **MLOps & Backend Systems Engineer**
+### **MLOps, Backend & Full-Stack Systems Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooya-cheshmehkhavar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pooyacj5040@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PooyaCheshmehkhavar)
 
 <p align="center">
-  <em>Specializing in production-grade MLOps pipelines, low-latency API serving, distributed concurrency, and reliable backend system architectures.</em>
+  <em>Specializing in production MLOps pipelines, low-latency API serving, distributed concurrency, and modern full-stack web architectures.</em>
 </p>
 
 </div>
@@ -17,10 +17,11 @@
 
 ### 🚀 About Me
 
-I am a Software Engineer focused on the intersection of **Backend Reliability, Machine Learning Operations (MLOps), and Data Engineering**:
+I am a Software Engineer focused on building high-performance systems across **MLOps, Robust Backend Infrastructure, and Modern Full-Stack Web Development**:
 
 - ⚡ **High-Throughput ML Serving:** Architecting ultra-low latency prediction APIs (P95 <= 12ms) with FastAPI, Uvicorn, connection pooling, and in-memory feature caches.
 - 🔒 **Distributed Concurrency & Security:** Designing database-level distributed locking (`pg_advisory_lock` with 64-bit hashing under `Repeatable Read` isolation) for idempotent request guarantees and constant-time cryptographic auth.
+- 🌐 **Modern Full-Stack & Web Engineering:** Building responsive, product-oriented web applications and interactive dashboards with **TypeScript, JavaScript, TailwindCSS, Bootstrap, and Django/FastAPI**, backed by RESTful APIs, WebSockets, and Nginx.
 - 🧠 **Applied ML & Feature Engineering:** Building competitive ensembles with **LightGBM, CatBoost, and XGBoost**, two-stage classification-to-regression stacking, and leakage-proof temporal validation.
 - 📊 **Production Observability & Lifecycle:** Instrumenting custom Prometheus telemetry, Prometheus label hygiene, feature drift detection, and automated Champion-Challenger model registry governance (MLflow & Airflow).
 
@@ -30,11 +31,12 @@ I am a Software Engineer focused on the intersection of **Backend Reliability, M
 
 | Domain | Technologies & Frameworks |
 |---|---|
-| **Languages** | Python 3.11+, C++, TypeScript, SQL, Bash |
-| **Backend & Serving** | FastAPI, Django, AsyncIO, Uvicorn, REST APIs, WebSockets |
-| **Databases & Storage** | PostgreSQL, SQLAlchemy, Alembic, Redis, SQLite |
+| **Languages** | Python 3.11+, TypeScript, JavaScript (ES6+), C++, SQL, HTML5, CSS3, Bash |
+| **Backend & Web APIs** | FastAPI, Django, AsyncIO, Uvicorn, RESTful API Design, WebSockets, Nginx |
+| **Frontend & UI Design** | TypeScript, JavaScript, TailwindCSS, Bootstrap, HTML5/CSS3, Responsive UI |
+| **Databases & Cache** | PostgreSQL, SQLAlchemy, Alembic, Redis, SQLite, MongoDB |
 | **Machine Learning & Data** | LightGBM, CatBoost, XGBoost, Scikit-Learn, Pandas, NumPy, MLflow |
-| **Cloud, DevOps & Ingress** | Docker, Docker Compose, Kubernetes, Helm, Airflow, CI/CD |
+| **DevOps & Cloud** | Docker, Docker Compose, Kubernetes, Helm, Airflow, CI/CD, Git |
 | **Monitoring & Telemetry** | Prometheus, PromQL, Grafana, Structured JSON Logging |
 
 ---
