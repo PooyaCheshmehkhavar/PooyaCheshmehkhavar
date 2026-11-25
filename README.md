@@ -3,7 +3,7 @@
 # Hi there, I'm Pooya Cheshmehkhavar 👋
 ### **MLOps, Backend & Full-Stack Systems Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooya-cheshmehkhavar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooya-cheshmehkhavar-2b162434a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pooyacj5040@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PooyaCheshmehkhavar)
 
