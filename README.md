@@ -1,48 +1,70 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>
-- Building scalable Django web applications  <br>
-- Designing clean and maintainable backend architectures  <br>
-- Developing product-oriented web systems  <br><br>
+<div align="center">
 
-👯 I’m looking to collaborate on<br>
-- Python / Django open-source projects  <br>
-- SaaS and startup ideas  <br>
-- Backend-focused full-stack applications  <br><br>
+# Hi there, I'm Pooya Cheshmehkhavar 👋
+### **MLOps & Backend Systems Engineer**
 
-🤝 I’m looking for help with<br>
-- Backend scalability strategies  <br>
-- Production deployment best practices  <br>
-- Advanced system design concepts  <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooya-cheshmehkhavar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pooyacj5040@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PooyaCheshmehkhavar)
 
-🌱 I’m currently learning<br>
-- System design fundamentals  <br>
-- Backend performance optimization  <br>
-- Modern frontend frameworks  <br><br>
+<p align="center">
+  <em>Specializing in production-grade MLOps pipelines, low-latency API serving, distributed concurrency, and reliable backend system architectures.</em>
+</p>
 
-💬 Ask me about<br>
-- Python & Django  <br>
-- REST API architecture  <br>
-- Database modeling  <br>
-- Building MVPs efficiently  <br><br>
-
-⚡ Fun fact<br>
-- I think like a product builder, not just a developer 🚀
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pooya-cheshmehkhavar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pooyacj5040@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PooyaCheshmehkhavar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PooyaCheshmehkhavar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PooyaCheshmehkhavar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PooyaCheshmehkhavar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+I am a Software Engineer focused on the intersection of **Backend Reliability, Machine Learning Operations (MLOps), and Data Engineering**:
+
+- ⚡ **High-Throughput ML Serving:** Architecting ultra-low latency prediction APIs ({95} \le 12\text{ms}$) with FastAPI, Uvicorn, connection pooling, and in-memory feature caches.
+- 🔒 **Distributed Concurrency & Security:** Designing database-level distributed locking ( with 64-bit hashing under  isolation) for idempotent request guarantees and constant-time cryptographic auth.
+- 🧠 **Applied ML & Feature Engineering:** Building competitive ensembles with **LightGBM, CatBoost, and XGBoost**, two-stage classification-to-regression stacking, and leakage-proof temporal validation.
+- 📊 **Production Observability & Lifecycle:** Instrumenting custom Prometheus telemetry, Prometheus label hygiene, feature drift detection, and automated Champion-Challenger model registry governance (MLflow & Airflow).
+
+---
+
+### 🛠 Tech Stack & Toolbox
+
+| Domain | Technologies & Frameworks |
+|---|---|
+| **Languages** | Python 3.11+, C++, TypeScript, SQL, Bash |
+| **Backend & Serving** | FastAPI, Django, AsyncIO, Uvicorn, REST APIs, WebSockets |
+| **Databases & Storage** | PostgreSQL, SQLAlchemy, Alembic, Redis, SQLite |
+| **Machine Learning & Data** | LightGBM, CatBoost, XGBoost, Scikit-Learn, Pandas, NumPy, MLflow |
+| **Cloud, DevOps & Ingress** | Docker, Docker Compose, Kubernetes, Helm, Airflow, CI/CD |
+| **Monitoring & Telemetry** | Prometheus, PromQL, Grafana, Structured JSON Logging |
+
+---
+
+### 🌟 Featured Repositories
+
+- 🛡️ **[QBC-PromiseOps](https://github.com/PooyaCheshmehkhavar/QBC-PromiseOps)**  
+  *Production MLOps platform for e-commerce delivery delay prediction with distributed advisory locking, Prometheus metrics normalization, and <12ms SLA.*
+- 🎮 **[GTA-ML-Competition](https://github.com/PooyaCheshmehkhavar/GTA-ML-Competition)**  
+  *Two-stage hybrid competitive ML pipeline stacking CatBoost/LightGBM classification probabilities into multi-model regression (MSLE loss).*
+- 💊 **[Drug-Classification-ML](https://github.com/PooyaCheshmehkhavar/Drug-Classification-ML)**  
+  *Substance consumption risk prediction utilizing psychometric interaction feature engineering, Stratified K-Fold CV, and LightGBM.*
+- 🏨 **[Hotel-UI](https://github.com/PooyaCheshmehkhavar/Hotel-UI)**  
+  *Object-oriented Desktop GUI application built with C++ and Qt.*
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PooyaCheshmehkhavar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pooya's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PooyaCheshmehkhavar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PooyaCheshmehkhavar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with precision & engineered for performance 🚀</sub>
+</div>
