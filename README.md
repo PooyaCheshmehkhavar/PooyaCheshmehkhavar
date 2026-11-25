@@ -19,8 +19,8 @@
 
 I am a Software Engineer focused on the intersection of **Backend Reliability, Machine Learning Operations (MLOps), and Data Engineering**:
 
-- ⚡ **High-Throughput ML Serving:** Architecting ultra-low latency prediction APIs ({95} \le 12\text{ms}$) with FastAPI, Uvicorn, connection pooling, and in-memory feature caches.
-- 🔒 **Distributed Concurrency & Security:** Designing database-level distributed locking ( with 64-bit hashing under  isolation) for idempotent request guarantees and constant-time cryptographic auth.
+- ⚡ **High-Throughput ML Serving:** Architecting ultra-low latency prediction APIs (P95 <= 12ms) with FastAPI, Uvicorn, connection pooling, and in-memory feature caches.
+- 🔒 **Distributed Concurrency & Security:** Designing database-level distributed locking (`pg_advisory_lock` with 64-bit hashing under `Repeatable Read` isolation) for idempotent request guarantees and constant-time cryptographic auth.
 - 🧠 **Applied ML & Feature Engineering:** Building competitive ensembles with **LightGBM, CatBoost, and XGBoost**, two-stage classification-to-regression stacking, and leakage-proof temporal validation.
 - 📊 **Production Observability & Lifecycle:** Instrumenting custom Prometheus telemetry, Prometheus label hygiene, feature drift detection, and automated Champion-Challenger model registry governance (MLflow & Airflow).
 
