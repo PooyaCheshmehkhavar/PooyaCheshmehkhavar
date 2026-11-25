@@ -41,29 +41,25 @@ I am a Software Engineer focused on building high-performance systems across **M
 
 ---
 
-### 🌟 Featured Repositories
+### 🌟 Featured & Public Repositories
 
+#### 🤖 MLOps & Machine Learning Systems
 - 🛡️ **[QBC-PromiseOps](https://github.com/PooyaCheshmehkhavar/QBC-PromiseOps)**  
   *Production MLOps platform for e-commerce delivery delay prediction with distributed advisory locking, Prometheus metrics normalization, and <12ms SLA.*
 - 🎮 **[GTA-ML-Competition](https://github.com/PooyaCheshmehkhavar/GTA-ML-Competition)**  
   *Two-stage hybrid competitive ML pipeline stacking CatBoost/LightGBM classification probabilities into multi-model regression (MSLE loss).*
 - 💊 **[Drug-Classification-ML](https://github.com/PooyaCheshmehkhavar/Drug-Classification-ML)**  
   *Substance consumption risk prediction utilizing psychometric interaction feature engineering, Stratified K-Fold CV, and LightGBM.*
+
+#### ⚙️ Backend Infrastructure & Production Templates
+- 🚀 **[production-server-template](https://github.com/PooyaCheshmehkhavar/production-server-template)**  
+  *Production-ready Python/FastAPI server template configured with industry best practices, environment separation, Docker containerization, security headers, and structured logging.*
+
+#### 🖥️ Desktop Systems & Applications
 - 🏨 **[Hotel-UI](https://github.com/PooyaCheshmehkhavar/Hotel-UI)**  
-  *Object-oriented Desktop GUI application built with C++ and Qt.*
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PooyaCheshmehkhavar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pooya's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PooyaCheshmehkhavar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PooyaCheshmehkhavar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  *Object-oriented Desktop management application built with C++ and Qt, demonstrating memory management and GUI architecture.*
+- 👾 **[alien_invasion](https://github.com/PooyaCheshmehkhavar/alien_invasion)**  
+  *Classic 2D arcade shooter built in Python with Pygame, featuring dynamic sprite collision detection, state tracking, and level scaling.*
 
 ---
 
